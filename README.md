@@ -1,58 +1,85 @@
 # 🟢 Matrix Rain Animation Login System
 
-A futuristic **Matrix Rain Animation Login Interface** inspired by the cyberpunk interface style seen in *The Matrix*.  
-This project creates a hacker-style login page with a digital rain background and a simulated cybersecurity dashboard.
+A futuristic **Matrix Rain Animation Login Interface** inspired by the cyberpunk interface style seen in **The Matrix**.
+
+This project creates a **hacker-style login page with digital rain animation and a cybersecurity dashboard**.
 
 ---
 
-## 📸 Project Preview
+# 🚀 Project Badges
 
-Features a cyber-style interface including:
-
-- Matrix digital rain animation
-- Hacker-style login terminal
-- Cybersecurity dashboard
-- Terminal command console
-- Simulated network monitoring
-
-Inspired by the visual style of the movie **The Matrix**.
+![GitHub stars](https://img.shields.io/github/stars/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
 
 ---
 
-## 🚀 Features
+# 🌐 Live Demo
 
-### 🔐 Login System
+Click below to view the project live:
+
+👉 **Live Website**  
+https://raja-kumar-1996.github.io/Matrix-Animation-Login/
+
+---
+
+# 👀 Animated Preview
+
+![Matrix Animation Preview](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+---
+
+# 📸 Screenshots
+
+## Login Interface
+
+![Login Screenshot](https://via.placeholder.com/900x400?text=Matrix+Login+Screen)
+
+## Cybersecurity Dashboard
+
+![Dashboard Screenshot](https://via.placeholder.com/900x400?text=Cybersecurity+Dashboard)
+
+---
+
+# 🚀 Features
+
+## 🔐 Login System
 - Username and password authentication
 - Access granted / access denied system
-- Cyberpunk terminal UI
+- Cyberpunk terminal style UI
 
-### 🟢 Matrix Animation
+## 🟢 Matrix Rain Animation
 - Digital rain animation using HTML5 Canvas
-- Neon green hacker-style visuals
+- Hacker style neon interface
 
-### 🌐 Cybersecurity Dashboard
-- Live cyber attack simulation
+## 🌐 Cybersecurity Dashboard
+- Simulated cyber attack monitoring
 - IP tracking visualization
 - Packet analyzer simulation
-- System activity logs
-- Security monitoring interface
+- Security logs and monitoring
 
-### 💻 Hacker Terminal Console
-Users can type commands like:
+## 💻 Terminal Command Console
+
+Users can type commands:
+
+```
 help
 scan
 clear
+```
+
 Example response:
 
-
-scan
+```
+> scan
 Scanning network...
 Threats detected: 0
-
+```
 
 ---
 
-## 🧰 Technologies Used
+# 🧰 Technologies Used
 
 | Technology | Purpose |
 |-------------|--------|
@@ -63,117 +90,118 @@ Threats detected: 0
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-
-matrix-login-project
+```
+Matrix-Animation-Login
 │
-├── index.html # Main login + dashboard interface
-├── style.css # Cyberpunk UI styling
-├── script.js # Matrix animation & system logic
-└── README.md # Project documentation
-
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
 ---
 
-## 🔑 Default Login Credentials
+# 🔑 Default Login Credentials
 
-
+```
 Username: admin
 Password: matrix123
-
+```
 
 These credentials are stored in JavaScript for demonstration purposes.
 
 ---
 
-## ▶️ How to Run the Project
+# ▶️ How to Run the Project
 
-### 1️⃣ Download the Repository
+### 1️⃣ Clone the repository
 
+```
+git clone https://github.com/raja-kumar-1996/Matrix-Animation-Login.git
+```
 
-git clone [https://github.com/your-username/matrix-login-project.git](https://raja-kumar-1996.github.io/Matrix-Animation-Login/)
+### 2️⃣ Open the project folder
 
+```
+cd Matrix-Animation-Login
+```
 
-### 2️⃣ Open the Project Folder
+### 3️⃣ Run the project
 
+Open:
 
-cd matrix-login-project
-
-
-### 3️⃣ Run the Application
-
-Simply open:
-
-
+```
 index.html
+```
 
-
-in any modern web browser.
+in any browser.
 
 ---
 
-## 🛡 Cybersecurity Dashboard Modules
+# 🛡 Cybersecurity Dashboard Modules
 
-The dashboard simulates tools commonly seen in **Security Operations Centers (SOC)**.
+The dashboard simulates tools used in **Security Operations Centers (SOC)**.
 
 ### Network Monitoring
 Displays simulated network activity logs.
 
 ### IP Tracking
-Random IP addresses appear to simulate intrusion detection.
+Random IP addresses simulate intrusion detection.
 
 ### Packet Analyzer
-Displays simulated network packet data.
+Shows simulated packet monitoring.
 
 ### Hacker Terminal
-Command-line interface simulation for cyber operations.
+Interactive command terminal simulation.
 
 ### Cyber Attack Map
-Simulated visualization of cyber activity.
+Visual cyber attack simulation interface.
 
 ---
 
-## ⚠ Disclaimer
+# 📚 Learning Purpose
 
-This project is **for educational and demonstration purposes only**.
-
-It does **NOT perform real hacking, tracking, or cybersecurity monitoring**.
-
----
-
-## 📚 Learning Purpose
-
-This project helps developers learn:
+This project demonstrates:
 
 - HTML Canvas animation
-- JavaScript UI simulation
-- Cyberpunk interface design
-- Interactive dashboards
-- Frontend cybersecurity visualization concepts
+- Cyberpunk UI design
+- JavaScript dashboard simulation
+- Frontend cybersecurity visualization
+- Hacker-style interfaces
 
 ---
 
-## 🌟 Future Improvements
+# 🌟 Future Improvements
 
 Possible upgrades:
 
-- Real-time cybersecurity data APIs
-- Interactive world cyber attack map
+- Real cyber attack map
 - Three.js 3D globe visualization
-- AI-based threat simulation
-- Real authentication backend
+- Real-time threat detection
+- Backend authentication system
 - WebSocket live monitoring
+- AI cybersecurity analytics
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-Created as a **frontend cybersecurity interface project** for learning and portfolio purposes.
+**Raja Kumar**
+
+GitHub Profile:  
+https://github.com/raja-kumar-1996
 
 ---
 
-## ⭐ Support
+# 👁 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=raja-kumar-1996&color=brightgreen)
+
+---
+
+# ⭐ Support
 
 If you like this project:
 
@@ -183,6 +211,6 @@ If you like this project:
 
 ---
 
-## 📜 License
+# 📜 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source under the **MIT License**.
