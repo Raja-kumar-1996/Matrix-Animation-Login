@@ -92,7 +92,7 @@ These credentials are stored in JavaScript for demonstration purposes.
 ### 1️⃣ Download the Repository
 
 
-git clone https://github.com/your-username/matrix-login-project.git
+git clone [https://github.com/your-username/matrix-login-project.git](https://raja-kumar-1996.github.io/Matrix-Animation-Login/)
 
 
 ### 2️⃣ Open the Project Folder
