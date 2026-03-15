@@ -1,4 +1,4 @@
-// MATRIX RAIN EFFECT
+// MATRIX RAIN
 
 const canvas = document.getElementById("matrix");
 const ctx = canvas.getContext("2d");
@@ -14,25 +14,25 @@ const columns = canvas.width / fontSize;
 
 const drops = [];
 
-for (let x = 0; x < columns; x++)
-drops[x] = 1;
+for(let x=0; x<columns; x++)
+drops[x]=1;
 
-function draw() {
+function draw(){
 
-ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
-ctx.fillRect(0, 0, canvas.width, canvas.height);
+ctx.fillStyle="rgba(0,0,0,0.05)";
+ctx.fillRect(0,0,canvas.width,canvas.height);
 
-ctx.fillStyle = "#00ff00";
-ctx.font = fontSize + "px monospace";
+ctx.fillStyle="#00ff00";
+ctx.font=fontSize+"px monospace";
 
-for (let i = 0; i < drops.length; i++) {
+for(let i=0;i<drops.length;i++){
 
-const text = matrix[Math.floor(Math.random() * matrix.length)];
+const text=matrix[Math.floor(Math.random()*matrix.length)];
 
-ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+ctx.fillText(text,i*fontSize,drops[i]*fontSize);
 
-if (drops[i] * fontSize > canvas.height && Math.random() > 0.975)
-drops[i] = 0;
+if(drops[i]*fontSize>canvas.height && Math.random()>0.975)
+drops[i]=0;
 
 drops[i]++;
 
@@ -40,27 +40,26 @@ drops[i]++;
 
 }
 
-setInterval(draw, 35);
-
+setInterval(draw,35);
 
 
 // LOGIN SYSTEM
 
 function login(){
 
-let username = document.getElementById("username").value;
-let password = document.getElementById("password").value;
-let status = document.getElementById("status");
+let username=document.getElementById("username").value;
+let password=document.getElementById("password").value;
+let status=document.getElementById("status");
 
-if(username === "admin" && password === "matrix123"){
+if(username==="admin" && password==="matrix123"){
 
-status.innerHTML = "ACCESS GRANTED";
-status.style.color = "lime";
+status.innerHTML="ACCESS GRANTED";
+status.style.color="lime";
 
 }else{
 
-status.innerHTML = "ACCESS DENIED";
-status.style.color = "red";
+status.innerHTML="ACCESS DENIED";
+status.style.color="red";
 
 }
 
