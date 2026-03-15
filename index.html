@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
 <meta charset="UTF-8">
-<title>Matrix Cyber Login</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cyber Matrix Login</title>
 
 <link rel="stylesheet" href="style.css">
 
@@ -19,12 +21,36 @@
 <p id="typing"></p>
 
 <input id="username" type="text" placeholder="Username">
-
 <input id="password" type="password" placeholder="Password">
 
 <button onclick="login()">LOGIN</button>
 
+<button onclick="fingerprintLogin()">🔒 Fingerprint Login</button>
+
+<div id="progress-container">
+<div id="progress-bar"></div>
+</div>
+
 <p id="status"></p>
+
+<div class="terminal-windows">
+
+<div class="window">
+<h3>Network Scan</h3>
+<p id="network"></p>
+</div>
+
+<div class="window">
+<h3>IP Tracking</h3>
+<p id="ip"></p>
+</div>
+
+<div class="window">
+<h3>System Log</h3>
+<p id="log"></p>
+</div>
+
+</div>
 
 </div>
 
