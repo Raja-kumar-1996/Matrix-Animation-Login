@@ -1,0 +1,71 @@
+body{
+margin:0;
+background:black;
+color:#00ff00;
+font-family:monospace;
+overflow:hidden;
+}
+
+canvas{
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+}
+
+.terminal{
+
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+
+background:rgba(0,0,0,0.8);
+padding:40px;
+
+border:1px solid #00ff00;
+box-shadow:0 0 20px #00ff00;
+
+text-align:center;
+
+}
+
+input{
+
+width:200px;
+padding:10px;
+margin:10px;
+
+background:black;
+border:1px solid #00ff00;
+color:#00ff00;
+
+}
+
+button{
+
+background:#00ff00;
+border:none;
+padding:10px;
+cursor:pointer;
+
+}
+
+/* glitch effect */
+
+.glitch{
+
+font-size:32px;
+position:relative;
+
+animation: glitch 1s infinite;
+
+}
+
+@keyframes glitch{
+
+0%{text-shadow:2px 2px red;}
+50%{text-shadow:-2px -2px blue;}
+100%{text-shadow:2px -2px green;}
+
+}
