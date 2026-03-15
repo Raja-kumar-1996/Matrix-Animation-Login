@@ -1,196 +1,112 @@
-# 🟢 Matrix Rain Animation Login System
+<p align="center">
 
-A futuristic **Matrix Rain Animation Login Interface** inspired by the cyberpunk interface style seen in **The Matrix**.
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
 
-This project creates a **hacker-style login page with digital rain animation and a cybersecurity dashboard**.
+</p>
 
----
+<h1 align="center">🟢 Welcome to the Matrix</h1>
 
-# 🚀 Project Badges
-
-![GitHub stars](https://img.shields.io/github/stars/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/raja-kumar-1996/Matrix-Animation-Login?style=for-the-badge)
+<p align="center">
+Cybersecurity • Web Development • Hacker Style Interfaces
+</p>
 
 ---
 
-# 🌐 Live Demo
+# 👨‍💻 About Me
 
-Click below to view the project live:
+```
+> Initializing profile...
 
-👉 **Live Website**  
+Name: Raja Kumar
+Role: Developer / Cybersecurity Enthusiast
+Location: Internet
+Status: Online
+System: Linux
+```
+
+I build **cyberpunk interfaces, web applications, and security-themed projects**.
+
+---
+
+# ⚡ Hacker Terminal
+
+```
+> whoami
+Raja Kumar
+
+> skills
+HTML CSS JavaScript
+Cybersecurity UI
+GitHub Projects
+
+> current-project
+Matrix Animation Login System
+```
+
+---
+
+# 🚀 Featured Project
+
+### Matrix Rain Animation Login System
+
+🔗 Project Link
+
+https://github.com/raja-kumar-1996/Matrix-Animation-Login
+
+Live Demo
+
 https://raja-kumar-1996.github.io/Matrix-Animation-Login/
 
 ---
 
-# 👀 Animated Preview
+# 📊 GitHub Stats
 
-![Matrix Animation Preview](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=raja-kumar-1996&show_icons=true&theme=chartreuse-dark">
 
-# 📸 Screenshots
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-kumar-1996&theme=chartreuse-dark">
 
-## Login Interface
-
-![Login Screenshot](https://via.placeholder.com/900x400?text=Matrix+Login+Screen)
-
-## Cybersecurity Dashboard
-
-![Dashboard Screenshot](https://via.placeholder.com/900x400?text=Cybersecurity+Dashboard)
+</p>
 
 ---
 
-# 🚀 Features
+# 🧠 Top Languages
 
-## 🔐 Login System
-- Username and password authentication
-- Access granted / access denied system
-- Cyberpunk terminal style UI
+<p align="center">
 
-## 🟢 Matrix Rain Animation
-- Digital rain animation using HTML5 Canvas
-- Hacker style neon interface
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-kumar-1996&layout=compact&theme=chartreuse-dark">
 
-## 🌐 Cybersecurity Dashboard
-- Simulated cyber attack monitoring
-- IP tracking visualization
-- Packet analyzer simulation
-- Security logs and monitoring
+</p>
 
-## 💻 Terminal Command Console
+---
 
-Users can type commands:
+# 🐍 Contribution Snake
 
-```
-help
-scan
-clear
-```
+<p align="center">
 
-Example response:
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 🛠 Tech Stack
 
 ```
-> scan
-Scanning network...
-Threats detected: 0
+HTML
+CSS
+JavaScript
+Git
+GitHub
+Cyberpunk UI Design
 ```
 
 ---
 
-# 🧰 Technologies Used
+# 🌐 Connect With Me
 
-| Technology | Purpose |
-|-------------|--------|
-| HTML5 | Page structure |
-| CSS3 | Cyberpunk UI design |
-| JavaScript | Animation and logic |
-| Canvas API | Matrix rain animation |
-
----
-
-# 📂 Project Structure
-
-```
-Matrix-Animation-Login
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
-
-# 🔑 Default Login Credentials
-
-```
-Username: admin
-Password: matrix123
-```
-
-These credentials are stored in JavaScript for demonstration purposes.
-
----
-
-# ▶️ How to Run the Project
-
-### 1️⃣ Clone the repository
-
-```
-git clone https://github.com/raja-kumar-1996/Matrix-Animation-Login.git
-```
-
-### 2️⃣ Open the project folder
-
-```
-cd Matrix-Animation-Login
-```
-
-### 3️⃣ Run the project
-
-Open:
-
-```
-index.html
-```
-
-in any browser.
-
----
-
-# 🛡 Cybersecurity Dashboard Modules
-
-The dashboard simulates tools used in **Security Operations Centers (SOC)**.
-
-### Network Monitoring
-Displays simulated network activity logs.
-
-### IP Tracking
-Random IP addresses simulate intrusion detection.
-
-### Packet Analyzer
-Shows simulated packet monitoring.
-
-### Hacker Terminal
-Interactive command terminal simulation.
-
-### Cyber Attack Map
-Visual cyber attack simulation interface.
-
----
-
-# 📚 Learning Purpose
-
-This project demonstrates:
-
-- HTML Canvas animation
-- Cyberpunk UI design
-- JavaScript dashboard simulation
-- Frontend cybersecurity visualization
-- Hacker-style interfaces
-
----
-
-# 🌟 Future Improvements
-
-Possible upgrades:
-
-- Real cyber attack map
-- Three.js 3D globe visualization
-- Real-time threat detection
-- Backend authentication system
-- WebSocket live monitoring
-- AI cybersecurity analytics
-
----
-
-# 👨‍💻 Author
-
-**Raja Kumar**
-
-GitHub Profile:  
+GitHub  
 https://github.com/raja-kumar-1996
 
 ---
@@ -201,16 +117,8 @@ https://github.com/raja-kumar-1996
 
 ---
 
-# ⭐ Support
+<p align="center">
 
-If you like this project:
+🟢 SYSTEM ONLINE
 
-⭐ Star the repository  
-🍴 Fork the project  
-📢 Share it with others
-
----
-
-# 📜 License
-
-This project is open-source under the **MIT License**.
+</p>
