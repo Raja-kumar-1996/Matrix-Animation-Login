@@ -3,11 +3,8 @@
 
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cyber Matrix Login</title>
-
+<title>Matrix Login</title>
 <link rel="stylesheet" href="style.css">
-
 </head>
 
 <body>
@@ -18,45 +15,28 @@
 
 <h1 class="glitch">SYSTEM ACCESS</h1>
 
-<p id="typing"></p>
+<p id="typing">Initializing system access...</p>
 
 <input id="username" type="text" placeholder="Username">
+
 <input id="password" type="password" placeholder="Password">
+
+<div class="buttons">
 
 <button onclick="login()">LOGIN</button>
 
-<button onclick="fingerprintLogin()">🔒 Fingerprint Login</button>
+<div class="fingerprint">
+<img src="https://cdn-icons-png.flaticon.com/512/2913/2913242.png">
+</div>
 
-<div id="progress-container">
-<div id="progress-bar"></div>
 </div>
 
 <p id="status"></p>
 
-<div class="terminal-windows">
-
-<div class="window">
-<h3>Network Scan</h3>
-<p id="network"></p>
 </div>
-
-<div class="window">
-<h3>IP Tracking</h3>
-<p id="ip"></p>
-</div>
-
-<div class="window">
-<h3>System Log</h3>
-<p id="log"></p>
-</div>
-
-</div>
-
-</div>
-
-<audio id="sound" src="mp3/matrix.mp3"></audio>
 
 <script src="script.js"></script>
 
 </body>
+
 </html>
